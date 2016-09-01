@@ -1,0 +1,18 @@
+PODS:
+  - HTMLKit (0.9.3)
+  - XMLDictionary (1.4)
+  - XMLKit (0.0.3)
+
+DEPENDENCIES:
+  - HTMLKit (~> 0.9.3)
+  - XMLDictionary (~> 1.4)
+  - XMLKit (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  HTMLKit: fdb80c5e052dd88f3ba35de06706401c5e97737e
+  XMLDictionary: f9f51601ba76678b594ab485f2b00ec1fed23724
+  XMLKit: 6f3a65a48c8cddea3b98c3acd21c73064709c9f1
+
+PODFILE CHECKSUM: e4614298aa9a66a3fd9249cbbb8f47c7da48a27f
+
+COCOAPODS: 1.0.1
